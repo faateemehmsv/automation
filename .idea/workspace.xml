@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a7fc30-6e93-439f-af49-3ae038e18225" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Archive/Browser_Actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Archive/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Archive/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/AlphaPlan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/MainPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Results -LoginTests .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Results -LoginTests2 .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Login_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="08a7fc30-6e93-439f-af49-3ae038e18225" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
