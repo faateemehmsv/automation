@@ -1,0 +1,5 @@
+email_input_id = "userRef"
+password_input_name = "password"
+login_button_name = "login"
+admin_class_name = "mat-radio-label-content"
+clickAlphaPlan = "//img[@class='card-img pb-1']"
